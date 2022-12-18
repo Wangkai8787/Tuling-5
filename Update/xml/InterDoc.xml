@@ -1,0 +1,182 @@
+<DocRoot>
+  <TextBlock id ="0">
+    <ZH_CN>欢迎回来</ZH_CN>
+    <ZH_TW>欢迎回来</ZH_TW>
+    <ZH_WENYAN>回来之欢迎</ZH_WENYAN>
+    <EN_GE>Welcome</EN_GE>
+  </TextBlock>
+<TextBlock id ="1">
+    <ZH_CN>点击屏幕任意处以登录。</ZH_CN>
+    <ZH_TW>點擊荧幕任意處以登入。</ZH_TW>
+    <ZH_WENYAN>击荧幕之任意处以登入。</ZH_WENYAN>
+    <EN_GE>Click anywhere on the screen to login.</EN_GE>
+  </TextBlock>
+<TextBlock id ="2">
+    <ZH_CN>生产力</ZH_CN>
+    <ZH_TW>生產力</ZH_TW>
+    <ZH_WENYAN>力之生</ZH_WENYAN>
+    <EN_GE>Productivity</EN_GE>
+  </TextBlock>
+<TextBlock id ="3">
+    <ZH_CN>写作</ZH_CN>
+    <ZH_TW>寫作</ZH_TW>
+    <ZH_WENYAN>写作</ZH_WENYAN>
+    <EN_GE>Writing</EN_GE>
+  </TextBlock>
+<TextBlock id ="4">
+    <ZH_CN>文件</ZH_CN>
+    <ZH_TW>檔案管理器</ZH_TW>
+    <ZH_WENYAN>文牒典兵</ZH_WENYAN>
+    <EN_GE>Files</EN_GE>
+  </TextBlock>
+<TextBlock id ="5">
+    <ZH_CN>媒体</ZH_CN>
+    <ZH_TW>媒體播放機</ZH_TW>
+    <ZH_WENYAN>媒自投器</ZH_WENYAN>
+    <EN_GE>Media</EN_GE>
+  </TextBlock>
+<TextBlock id ="6">
+    <ZH_CN>系统</ZH_CN>
+    <ZH_TW>系统</ZH_TW>
+    <ZH_WENYAN>系统</ZH_WENYAN>
+    <EN_GE>System</EN_GE>
+  </TextBlock>
+<TextBlock id ="7">
+    <ZH_CN>设置</ZH_CN>
+    <ZH_TW>設定</ZH_TW>
+    <ZH_WENYAN>设定</ZH_WENYAN>
+    <EN_GE>Settings</EN_GE>
+  </TextBlock>
+<TextBlock id ="8">
+    <ZH_CN>计算器</ZH_CN>
+    <ZH_TW>計算器</ZH_TW>
+    <ZH_WENYAN>计其数器</ZH_WENYAN>
+    <EN_GE>Calculator</EN_GE>
+  </TextBlock>
+<TextBlock id ="9">
+    <ZH_CN>终端</ZH_CN>
+    <ZH_TW>終端</ZH_TW>
+    <ZH_WENYAN>终端</ZH_WENYAN>
+    <EN_GE>Terminal</EN_GE>
+  </TextBlock>
+<TextBlock id ="10">
+    <ZH_CN>健康</ZH_CN>
+    <ZH_TW>健康</ZH_TW>
+    <ZH_WENYAN>健康</ZH_WENYAN>
+    <EN_GE>Health</EN_GE>
+  </TextBlock>
+<TextBlock id ="11">
+    <ZH_CN>通用</ZH_CN>
+    <ZH_TW>通用</ZH_TW>
+    <ZH_WENYAN>通用</ZH_WENYAN>
+    <EN_GE>General</EN_GE>
+  </TextBlock>
+<TextBlock id ="12">
+    <ZH_CN>个性化</ZH_CN>
+    <ZH_TW>个性化</ZH_TW>
+    <ZH_WENYAN>个性化</ZH_WENYAN>
+    <EN_GE>Personalization</EN_GE>
+  </TextBlock>
+<TextBlock id ="13">
+    <ZH_CN>账户与安全</ZH_CN>
+    <ZH_TW>帳戶與安全</ZH_TW>
+    <ZH_WENYAN>账户与安全</ZH_WENYAN>
+    <EN_GE>Accounts and Security</EN_GE>
+  </TextBlock>
+<TextBlock id ="14">
+    <ZH_CN>使用帮助</ZH_CN>
+    <ZH_TW>使用説明</ZH_TW>
+    <ZH_WENYAN>用之助</ZH_WENYAN>
+    <EN_GE>Help</EN_GE>
+  </TextBlock>
+<TextBlock id ="15">
+    <ZH_CN>语言</ZH_CN>
+    <ZH_TW>語言</ZH_TW>
+    <ZH_WENYAN>语言</ZH_WENYAN>
+    <EN_GE>Language</EN_GE>
+  </TextBlock>
+<TextBlock id ="16">
+    <ZH_CN>设置 Tuling 的显示语言</ZH_CN>
+    <ZH_TW>設置 Tuling 的顯示語言</ZH_TW>
+    <ZH_WENYAN>设 Tuling 示言</ZH_WENYAN>
+    <EN_GE>Sets the display language for Tuling</EN_GE>
+  </TextBlock>
+<TextBlock id ="17">
+    <ZH_CN>显示与声音</ZH_CN>
+    <ZH_TW>顯示與聲音</ZH_TW>
+    <ZH_WENYAN>示与声</ZH_WENYAN>
+    <EN_GE>Display and sound</EN_GE>
+  </TextBlock>
+<TextBlock id ="18">
+    <ZH_CN>更改显示与声音设置</ZH_CN>
+    <ZH_TW>更改顯示與聲音設置</ZH_TW>
+    <ZH_WENYAN>更显与声设</ZH_WENYAN>
+    <EN_GE>Change display and sound settings</EN_GE>
+  </TextBlock>
+<TextBlock id ="19">
+    <ZH_CN>更新</ZH_CN>
+    <ZH_TW>更新</ZH_TW>
+    <ZH_WENYAN>惟新</ZH_WENYAN>
+    <EN_GE>Update</EN_GE>
+  </TextBlock>
+<TextBlock id ="20">
+    <ZH_CN>更新</ZH_CN>
+    <ZH_TW>获取新版本</ZH_TW>
+    <ZH_WENYAN>获新版本</ZH_WENYAN>
+    <EN_GE>Get the new version</EN_GE>
+  </TextBlock>
+<TextBlock id ="21">
+    <ZH_CN>关于</ZH_CN>
+    <ZH_TW>關於</ZH_TW>
+    <ZH_WENYAN>关于</ZH_WENYAN>
+    <EN_GE>About</EN_GE>
+  </TextBlock>
+<TextBlock id ="22">
+    <ZH_CN>关于 Tuling 5、系统信息</ZH_CN>
+    <ZH_TW>關於 Tuling 5、系統資訊</ZH_TW>
+    <ZH_WENYAN>关于 Tuling 5、系统信息</ZH_WENYAN>
+    <EN_GE>About Tuling 5, system information</EN_GE>
+  </TextBlock>
+<TextBlock id ="23">
+    <ZH_CN>显示</ZH_CN>
+    <ZH_TW>顯示</ZH_TW>
+    <ZH_WENYAN>显示</ZH_WENYAN>
+    <EN_GE>Display</EN_GE>
+  </TextBlock>
+<TextBlock id ="24">
+    <ZH_CN>更改显示设置</ZH_CN>
+    <ZH_TW>更改顯示設置</ZH_TW>
+    <ZH_WENYAN>更显置</ZH_WENYAN>
+    <EN_GE>Change display settings</EN_GE>
+  </TextBlock>
+<TextBlock id ="25">
+    <ZH_CN>调整分辨率</ZH_CN>
+    <ZH_TW>調整解析度</ZH_TW>
+    <ZH_WENYAN>调分辨率</ZH_WENYAN>
+    <EN_GE>Resolution settings</EN_GE>
+  </TextBlock>
+<TextBlock id ="26">
+    <ZH_CN>标注显示器</ZH_CN>
+    <ZH_TW>標註顯示器</ZH_TW>
+    <ZH_WENYAN>标注显示器</ZH_WENYAN>
+    <EN_GE>Label the moniter</EN_GE>
+  </TextBlock>
+<TextBlock id ="27">
+    <ZH_CN>声音</ZH_CN>
+    <ZH_TW>聲音</ZH_TW>
+    <ZH_WENYAN>声</ZH_WENYAN>
+    <EN_GE>Sound</EN_GE>
+  </TextBlock>
+<TextBlock id ="28">
+    <ZH_CN>更改声音设置</ZH_CN>
+    <ZH_TW>更改聲音設置</ZH_TW>
+    <ZH_WENYAN>更张其声</ZH_WENYAN>
+    <EN_GE>Change sound settings</EN_GE>
+  </TextBlock>
+<TextBlock id ="29">
+    <ZH_CN>声音设置</ZH_CN>
+    <ZH_TW>聲音設置</ZH_TW>
+    <ZH_WENYAN>设定</ZH_WENYAN>
+    <EN_GE>Sound settings</EN_GE>
+  </TextBlock>
+  </DocRoot>
